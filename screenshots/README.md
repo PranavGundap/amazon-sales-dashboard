@@ -13,7 +13,7 @@ The dashboard provides insights into:
 # Tools Used
 - Power BI
   
-# Dashboard Screenshot
+## Dashboard Screenshot
 
 # Main Dashboard
 ![Dashboard](screenshots/dashboard-overview.png)
